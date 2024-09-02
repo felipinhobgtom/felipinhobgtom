@@ -1,4 +1,3 @@
-    <h1 align="center">Olá 👋, Eu sou o Felipe!</h1>
 <h3 align="center">Desenvolvedor front-end em treinamento, atualmente estudando no PROA!</h3>
 
 - 🌱 Atualmente estou aprendendo **HTML5, CSS3, Bootstrap, JavaScript, VisuAlg**
