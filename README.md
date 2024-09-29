@@ -7,7 +7,7 @@
 <h3 align="left">Me siga nas redes:</h3>
 <p align="left">
 <a href="https://twitter.com/el_felepenho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x.com/el_felepenho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/felipe-barros-09b082289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-barros-09b082289" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/felipebgtome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-barros-09b082289" height="30" width="40" /></a>
 <a href="https://instagram.com/its_felipinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/its_felipinn" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ofelipinho786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ofelipinho786" height="30" width="40" /></a>
 </p>
